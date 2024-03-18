@@ -19,7 +19,7 @@ The on-board platform is equipped with the following sensors:
  - a tactical INS StarNeto XW-GI7660.
 
 <p align="center">
-  <img width="712pix" src="shebei.png">
+  <img width="712pix" src="shebei.jpg">
 </p>
 
 **The outer lever arm distance**
